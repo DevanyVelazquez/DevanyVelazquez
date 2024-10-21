@@ -1,0 +1,2 @@
+- ¡Bienvenido a mi portafolio de Aseguramiento de Calidad (QA)!
+- Mi nombre es @DevanyVelazquez y soy un tester QA con experiencia en pruebas manuales y automatizadas.
